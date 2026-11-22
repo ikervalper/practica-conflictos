@@ -1,2 +1,2 @@
-entorno=producción
+entorno=desarrollo
 puerto=8080
